@@ -1,0 +1,23 @@
+{
+  "name": "com.cipherduo.shared",
+  "version": "0.0.0",
+  "displayName": "CipherDuo Shared",
+  "description": "CipherDuo's shared C# libraries & .dlls\nIt contains all the necessary shared dependencies for CipherDuo's C# Packages.\nYou can extend it to implement cross-repo functionalities",
+  "unity": "2019.1",
+  "documentationUrl": "https://github.com/CipherDuo/C2SHARED",
+  "changelogUrl": "https://github.com/CipherDuo/C2SHARED",
+  "licensesUrl": "https://github.com/CipherDuo/C2SHARED/blob/main/LICENSE",
+  "keywords": [
+    "common",
+    "cipherduo",
+    "utils"
+  ],
+  "dependencies": {
+  },
+  "author": {
+    "name": "CipherDuo",
+    "email": "info@cipherduo.org",
+    "url": "https://www.cipherduo.org/"
+  },
+  "type": "library"
+}
